@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My first application</string>
+    <string name="text_name">Enter your name</string>
+    <string name="send_button">Send</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="no_message">No message</string>
+</resources>
