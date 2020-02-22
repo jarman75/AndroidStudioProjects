@@ -3,19 +3,16 @@
     <string name="name">Armando Marti</string>
     <string name="yellow_star">Yellow star</string>
     <string name="bio">Hola, mi nombre es Armando.
-    \n\nMe gusta pescar.
-    \nVivo en Elche, localidad de Alicante.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.
-    \nMe gusta el cine, sobretodo las películas de suspense.</string>
+        \n\nMe gusta jugar al fútbol.
+        \n\nVivo en Elche, localidad de Alicante.
+        \n\nMe gusta el cine, sobretodo las películas de suspense.
+        \n\nLo que más me gusta es pasear por sitios solitarios rodeados de naturaleza.
+        \n\nMe gusta comer pasta, con mucho queso parmesano.
+        \n\nMe gusta la tecnología, sobretodo el desarrollo de software.
+        \n\nMe gusta la playa y el sol.
+        \n\nMe gusta la montaña, el frío y la lluvía.
+        \n\nMe gusta ...
+    </string>
     <string name="what_your_nickname">What is your Nickname?</string>
     <string name="done">Done</string>
 </resources>
