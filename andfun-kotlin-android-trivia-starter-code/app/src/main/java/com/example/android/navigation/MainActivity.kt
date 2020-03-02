@@ -19,12 +19,33 @@ package com.example.android.navigation
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
+import androidx.navigation.findNavController
+import androidx.navigation.ui.NavigationUI
 import com.example.android.navigation.databinding.ActivityMainBinding
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         @Suppress("UNUSED_VARIABLE")
         val binding = DataBindingUtil.setContentView<ActivityMainBinding>(this, R.layout.activity_main)
+        // find the navController from myNavHostFragment
+        // Since we're using KTK, yo can call this.findNavController
+        val navController = this.findNavController(R.id.myNavHostFragment)
+        // Link the navController to our ActionBar
+        // By calling NavigationUI.setupActionBarWithNavController
+        NavigationUI.setupActionBarWithNavController(this, navController)
+
+
+
+
     }
+
+    override fun onSupportNavigateUp(): Boolean {
+        // Override onSupportNavigateUp
+        // Find the navController and then call navController.navigateUp
+        val navController = this.findNavController(R.id .myNavHostFragment)
+        return navController.navigateUp()
+    }
+
 }
