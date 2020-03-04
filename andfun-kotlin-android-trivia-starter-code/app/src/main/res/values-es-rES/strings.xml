@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trivial Android</string>
+    <string name="game_over">Fin de Partida</string>
+    <string name="try_again">¿Volver a intentar?</string>
+    <string name="position">Posición</string>
+    <string name="select_an_avatar">Selecciona un Avatar</string>
+    <string name="about_text">Android Trivia te ayuda a recordar conceptos importantes que has aprendido y aprenderás en el desarrollo Android. Considera modificar las cuestiones y gráficos para hacer este juego tuyo.</string>
+    <string name="rules_text">Selecciona la respuesta de entre las opciones. Cada vez que respondas correctamente, avanzarás a la siguiente pregunta. ¡Si respondes erroneamente, el juego finaliza! Puedes volver a la pantalla del título usando la navegación superior o el retroceso</string>
+    <string name="rules">Reglas</string>
+    <string name="about">Acerca de</string>
+    <string name="title_about_trivia">Acerca de Trivia</string>
+    <string name="title_trivia_rules">Reglas del Trivia</string>
+    <string name="share_success_text">He finalizado #UdacityAndroidTrivia con %1$d/%2$d preguntas correctas!</string>
+    <string name="submit_button">Enviar</string>
+    <string name="congratulations">¡Enhorabuena!</string>
+    <string name="share">Compartir</string>
+    <string name="sharing_not_available">Compartir no disponible</string>
+    <string name="hello_blank_fragment">Hola fragmento blanco</string>
+    <string name="android_trivia">Trivial Android</string>
+    <string name="android_trivia">Trivial Android</string>
+    <string name="android_trivia">Trivial Android</string>
+    <string name="android_trivia">T</string>
+    <string name="android_trivia">T</string>
+    <string name="android_trivia">Tr</string>
+    <string name="android_trivia">Tri</string>
+    <string name="android_trivia">Triv</string>
+    <string name="android_trivia">Trivi</string>
+    <string name="android_trivia">Trivia</string>
+    <string name="android_trivia">"Trivial "</string>
+    <string name="android_trivia">"Trivial "</string>
+    <string name="android_trivia">Trivial A</string>
+    <string name="android_trivia">Trivial A</string>
+    <string name="android_trivia">Trivial And</string>
+    <string name="android_trivia">Trivial And</string>
+    <string name="android_trivia">Trivial Andr</string>
+    <string name="android_trivia">Trivial Andro</string>
+    <string name="android_trivia">Trivial Androi</string>
+    <string name="android_trivia">Trivial Android</string>
+    <string name="android_trivia">Trivial Android</string>
+    <string name="android_trivia">Trivial Android</string>
+    <string name="android_trivia">Trivial Android</string>
+    <string name="android_trivia">Trivial Android</string>
+    <string name="title_android_trivia_question">Trivial Android (%1$d%2$d)</string>
+</resources>
