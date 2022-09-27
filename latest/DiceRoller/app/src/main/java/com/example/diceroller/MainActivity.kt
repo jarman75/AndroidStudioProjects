@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         val randomInt = (1..6).random()
 
-        Toast.makeText(this, "It's $randomInt",
+        Toast.makeText(this, "It's $randomInt !!",
             Toast.LENGTH_SHORT).show()
 
         val drawableResource = when (randomInt) {
