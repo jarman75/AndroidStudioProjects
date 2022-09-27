@@ -26,12 +26,21 @@
         app:srcCompat="@drawable/empty_dice"
         tools:src="@drawable/dice_6"
         android:contentDescription="dice image"/>
+
+    <Button
+        android:id="@+id/clear_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="@string/clear_label" />
+
     <Button
         android:id="@+id/roll_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="@string/roll_label"/>
+        android:layout_gravity="right"
+        android:text="@string/roll_label" />
+
 
 
 </LinearLayout>
